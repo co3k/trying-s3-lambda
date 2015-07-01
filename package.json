@@ -18,6 +18,6 @@
   "homepage": "https://github.com/co3k/trying-s3-lambda",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "postcss": "^4.1.13"
+    "gulp-cssnext": "^1.0.1"
   }
 }
