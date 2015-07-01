@@ -1,0 +1,23 @@
+{
+  "name": "trying-s3-lambda",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/co3k/trying-s3-lambda.git"
+  },
+  "author": "",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/co3k/trying-s3-lambda/issues"
+  },
+  "homepage": "https://github.com/co3k/trying-s3-lambda",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "postcss": "^4.1.13"
+  }
+}
